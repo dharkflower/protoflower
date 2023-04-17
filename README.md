@@ -56,6 +56,6 @@ let newUser = 'user/create'.post({
 ```
 Requests:
 ```
-GET http://localhost:8000/api2/users/all
+GET http://localhost:8000/api2/users/3
 POST http://localhost:8000/api2/user/create
 ```
